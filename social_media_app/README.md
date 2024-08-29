@@ -16,8 +16,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 
-## 🚨 Tutorial
-
 
 ## <a name="introduction">🤖 Introduction</a>
 
